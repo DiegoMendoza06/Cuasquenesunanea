@@ -103,7 +103,7 @@ h3{
 
     <h2>¿Qué es la tecnologia?</h2>
 
-   <p>La tecnología es la aplicación de la ciencia a la resolución de problemas concretos. Constituye un conjunto de conocimientos científicamente ordenados, que permiten diseñar y crear bienes o servicios que facilitan la adaptación al medio ambiente, así como la satisfacción de las necesidades individuales esenciales y las aspiraciones de la humanidad</p> <a href="https://es.wikipedia.org/wiki/Tecnolog%C3%ADa">Para saber más sobre tecnología entra aquí</a>
+   <p>La tecnología es la aplicación de la ciencia a la resolución de problemas concretos. Constituye un conjunto de conocimientos científicamente ordenados, que permiten diseñar y crear bienes o servicios que facilitan la adaptación al medio ambiente, así como la satisfacción de las necesidades individuales esenciales y las aspiraciones de la humanidad</p> <a href="https://es.wikipedia.org/wiki/Tecnolog%C3%ADa">Para saber más sobre tecnología entra aquí.</a>
 
    <h2>Breve información sobre la pandemia</h2>
 
