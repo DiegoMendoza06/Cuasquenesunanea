@@ -139,7 +139,7 @@ h3{
  	<li><strong>Inteligencia artificial:</strong>Esta inteligencia ha ayudado a hacer Tomografias para pacientes con Covid 19.Estas muestran opaciodades pulmonares ,con un modelo computacional inspirado en el funcionamiento del cerebro humano.</li>
 
  	<li><strong>Escaneo de personas:</strong>Existen otro tipo de tecnologias qua parten de un mayor acercamiento con los individuos,para reconocimiento facial,el cual esta siendo actualizado para detectar quien tiene sintomas y quien no usa tapabocas</li>
- </ul>
+
 
 <h1>Impotancia de la tecnología en ambitos sociales</h1>
 <ul>
@@ -149,7 +149,7 @@ h3{
 
 </ul>
  <h2 id="Trabajo">Trabajo en casa</h2>
- <p>La fuerza laboral en todo el mundo se enfrenta al desafío del teletrabajo. Una medida obligada por la pandemia del coronavirus que exige un aislamiento social severo para minimizar el impacto de su expansión.</p><div align="Center"><img id="Work" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mutter_und_Tochter.jpg/300px-Mutter_und_Tochter.jpg" alt="Trabajo en casa" border="15"></div></p>
+ <p>La fuerza laboral en todo el mundo se enfrenta al desafío del teletrabajo. Una medida obligada por la pandemia del coronavirus que exige un aislamiento social severo para minimizar el impacto de su expansión.</p><div align="Center"><img id="Work" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mutter_und_Tochter.jpg/300px-Mutter_und_Tochter.jpg" alt="Trabajo en casa" border="15"></div>
 
 <p>A medida que el coronavirus continúa propagándose por todo el mundo, las compañías piden a sus empleados que trabajen de forma remota desde sus hogares para ayudar a controlar el contagio. Al principio, trabajar desde casa puede parecer un sueño: no traslados, no distraer a los compañeros de trabajo y pensar en todas esas tareas de las que te podrás escapar.</p> 
 
@@ -159,11 +159,11 @@ h3{
 <p>La comunicación, como nunca antes en la historia de la humanidad en menos de 4 meses la información del virus se ha expandido gracias a los medios y usuarios con dispositivos móviles al alcance.Esta es una de las principales herramientas de información y primera línea de defensa para contener la nueva pandemia. Algunos países han dado pasos adelante generando plataformas digitales / Apps</p><div align="Center"><img id="Comunication" src="https://educacionejecutivablog.files.wordpress.com/2015/10/shutterstock_136169648.jpg?w=300&h=209" alt="Comunicacion" border="15"></div></p>
 
 <h2 id="Clasesvirtuales">Clases virtuales</h2>
-<p>El cierre de las escuelas ha tenido un alto impacto en la educación. Esto ha llevado a la búsqueda de un replanteamiento rápido sobre cómo dar continuidad al quehacer educativo. En la nueva circunstancia, maestros y alumnos tienen que comunicarse desde sus respectivos hogares, en vez de encontrarse en la escuela.La educación a distancia adquirió una relevancia que quizás nunca había tenido.Esta modalidad de educación se distingue porque no requiere de la presencia de estudiantes y docentes en un mismo espacio. </p><div align="Center"><img id="Virtual" src="https://www.formarobotik.com/wp-content/uploads/2020/02/desarrollo-videojuegos.jpg" alt="Clases virtuales" border="15"></div></p>
+<p>El cierre de las escuelas ha tenido un alto impacto en la educación. Esto ha llevado a la búsqueda de un replanteamiento rápido sobre cómo dar continuidad al quehacer educativo. En la nueva circunstancia, maestros y alumnos tienen que comunicarse desde sus respectivos hogares, en vez de encontrarse en la escuela.La educación a distancia adquirió una relevancia que quizás nunca había tenido.Esta modalidad de educación se distingue porque no requiere de la presencia de estudiantes y docentes en un mismo espacio. </p><div align="Center"><img id="Virtual" src="https://www.formarobotik.com/wp-content/uploads/2020/02/desarrollo-videojuegos.jpg" alt="Clases virtuales" border="15"></div>
 
 <h2 id="Medicina">Medicina</h2>
 <p>Nuestra respuesta a esta epidemia debe abarcar, y, de hecho, centrarse en aquellos a quienes la sociedad a menudo descuida o relega a un estado menor. De lo contrario, fallará. La salud de cada persona está vinculada a la salud de los miembros más marginados de la comunidad. La prevención de la propagación de este virus debe garantizar un acceso equitativo al tratamiento”.
-Eso significa superar las barreras existentes para una atención médica accesible y asequible, y abordar el tratamiento diferencial arraigado en función de los ingresos, el género, la geografía, la raza y el origen étnico, la religión o el estatus social.<div align="Center"><img id="Medicine" src="https://www.itsitio.com/wp-content/uploads/2018/02/TI-y-salud.jpg" alt="Medicina" border="15"></div></p>
+Eso significa superar las barreras existentes para una atención médica accesible y asequible, y abordar el tratamiento diferencial arraigado en función de los ingresos, el género, la geografía, la raza y el origen étnico, la religión o el estatus social.<div align="Center"><img id="Medicine" src="https://www.itsitio.com/wp-content/uploads/2018/02/TI-y-salud.jpg" alt="Medicina" border="15"></div>
 
 <h2>Impacto del coronavirus en la industria tecnológica</h2>
 <h3>Efectos del covid-19 en los envios tecnológicos </h3>
