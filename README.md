@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -96,7 +96,7 @@ h3{
 
  <div align="center"><img id="Foto" src="https://scontent.fbog13-1.fna.fbcdn.net/v/t1.0-9/78628759_955822041470382_4926151910248939520_n.jpg?_nc_cat=104&_nc_sid=e3f864&_nc_ohc=xx4YJ6EyZ5AAX8g3bJj&_nc_ht=scontent.fbog13-1.fna&oh=772074c1fcd60f5b252dab8c5130f2f6&oe=5F84D5B4" alt="Mi Foto" border="15"></div>
 
-</div>
+
 
 
 	<h1>Impacto de la tecnología en tiempos de pandemia</h1>
@@ -113,11 +113,11 @@ h3{
 
    <p>Sin restarle importancia a la pandemia que vivimos y que está cambiando de manera radical el comportamiento de las personas y de la economía mundial, considero importante destacar la manera en que también está diversificando la forma de trabajar de las empresas echando mano de la tecnología y del trabajo a distancia.</p>
 
-<p>La situación que estamos atravesando actualmente en el mundo ha dejado de manifiesto la necesidad de nuevos modelos de trabajo para que las organizaciones funcionen en un mundo altamente distribuido y habilitado digitalmente. La desconexión física de las empresas y sus empleados requiere la adopción de nuevas tecnologías para mantener la continuidad del negocio y ofrecer mejores experiencias para todos.</p> <div align="Center"><img id="Critica" src="https://cider.uniandes.edu.co/sites/default/files/noticias/2020/Marzo-2020/coronavirus-economia/coronavirus-economia-D.jpg" alt="Imagen critica sobre la economia mundial" border="15"></div></p>
+<p>La situación que estamos atravesando actualmente en el mundo ha dejado de manifiesto la necesidad de nuevos modelos de trabajo para que las organizaciones funcionen en un mundo altamente distribuido y habilitado digitalmente. La desconexión física de las empresas y sus empleados requiere la adopción de nuevas tecnologías para mantener la continuidad del negocio y ofrecer mejores experiencias para todos.</p> <div align="Center"><img id="Critica" src="https://cider.uniandes.edu.co/sites/default/files/noticias/2020/Marzo-2020/coronavirus-economia/coronavirus-economia-D.jpg" alt="Imagen critica sobre la economia mundial" border="15"></div>
 
 <h2>El futuro</h2>
 
-<p>Mientras trabajamos por contener y luchar contra la pandemia, vemos cómo se ha recurrido a la tecnología como nuestra posible salvadora. Es por ello que muchas innovaciones tecnológicas están viviendo una aceleración en sus desarrollos y mejoras. Desde el trabajo remoto y los eventos virtuales hasta el big data de monitoreo del virus, las tecnologías que quizá sólo eran familiares para una comunidad tecnológica reservada, ahora se encuentran siendo utilizadas y buscadas por muchos.</p> <div align="Center"><img id="Avences" src="https://static1.elcorreo.com/www/multimedia/202003/02/media/cortadas/coronavirus-tecnologia-k0FG-U100358613244K4C-624x385@El%20Correo.jpg" alt="El futuro" border="15"></div></p>
+<p>Mientras trabajamos por contener y luchar contra la pandemia, vemos cómo se ha recurrido a la tecnología como nuestra posible salvadora. Es por ello que muchas innovaciones tecnológicas están viviendo una aceleración en sus desarrollos y mejoras. Desde el trabajo remoto y los eventos virtuales hasta el big data de monitoreo del virus, las tecnologías que quizá sólo eran familiares para una comunidad tecnológica reservada, ahora se encuentran siendo utilizadas y buscadas por muchos.</p> <div align="Center"><img id="Avences" src="https://static1.elcorreo.com/www/multimedia/202003/02/media/cortadas/coronavirus-tecnologia-k0FG-U100358613244K4C-624x385@El%20Correo.jpg" alt="El futuro" border="15"></div>
 
 <h2>Papeles de la tecnología</h2>
   <ol id="Ol">
@@ -190,5 +190,4 @@ Eso significa superar las barreras existentes para una atención médica accesib
 <h2>Opinión sobre la importancia de la tecnología</h2>
 
 <p>En mi opinión la tecnología ha ayudado demasiado en estas épocas, ya que podemos continuar con nuestros trabajos, estudios y poder compartir más tiempo con nuestras familias. También hemos avanzado en los campos de medicina y comunicación, ya que tenemos nuevas e innovadoras formas de acabar con las enfermedades. No podemos olvidar las nuevas tendencias tecnológicas como son los juegos de mesa virtuales. Juegos de rol entre otros, que han causado relevancia y tendencia este año.</p>
-</body> 
-</html>
+
